@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 💼 Tech Lead / Junior Architect
+- 💼 Senior Software Engineer with a strong background in technical leadership, architecture, and enterprise application development
 - 💻 13 Years of Software Development Experience
 - 🏗️ Passionate about building scalable enterprise applications
 - ☁️ Interested in Cloud, Architecture, DevOps, and Modern Development Practices
