@@ -83,7 +83,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jyothish_M_B-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyothish-m-b-539b4780/)
 
-📧 jyothishmbonline@gmail.com
+📧 jyothishblogger@gmail.com
 
 ---
 
