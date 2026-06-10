@@ -82,6 +82,7 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jyothish_M_B-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyothish-m-b-539b4780/)
+[![WordPress](https://img.shields.io/badge/WordPress-Jyothish_Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://jyothishbhaskaran.wordpress.com/)
 
 📧 jyothishblogger@gmail.com
 
