@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 💼 Tech Lead / Junior Architect
-- 💻 15+ Years of Software Development Experience
+- 💻 13 Years of Software Development Experience
 - 🏗️ Passionate about building scalable enterprise applications
 - ☁️ Interested in Cloud, Architecture, DevOps, and Modern Development Practices
 - 🚴 Cycling enthusiast focused on discipline, endurance, and continuous improvement
@@ -14,15 +14,15 @@
 
 | Area | Experience |
 |--------|-----------|
-| Software Development | 15+ Years |
-| .NET Development | 15+ Years |
-| C# | 15+ Years |
-| VB.NET | 15+ Years |
-| SQL Server | 15+ Years |
+| Software Development | 13 Years |
+| .NET Development | 12 Years |
+| C# | 12 Years |
+| VB.NET | 2 Years |
+| SQL Server | 13 Years |
 | REST APIs | 10+ Years |
-| Cloud Technologies | X+ Years |
-| System Architecture | X+ Years |
-| DevOps & CI/CD | X+ Years |
+| Cloud Technologies | 6 Years |
+| System Architecture | 3 Years |
+| DevOps & CI/CD | 5 Years |
 
 ---
 
